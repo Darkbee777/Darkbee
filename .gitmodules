@@ -1,0 +1,3 @@
+[submodule "Darkbee"]
+	path = Darkbee
+	url = git@github.com:Darkbee777/Darkbee.git
